@@ -1,0 +1,153 @@
+
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://localhost:4000/</id>
+  <title>木春sh</title>
+  <subtitle>木春sh的个人博客。</subtitle>
+  <updated>2026-03-09T21:51:08+08:00</updated>
+  <author>
+    <name>木春sh</name>
+    <uri>http://localhost:4000/</uri>
+  </author>
+  <link rel="self" type="application/atom+xml" href="http://localhost:4000/feed.xml"/>
+  <link rel="alternate" type="text/html" hreflang="zh"
+    href="http://localhost:4000/"/>
+  <generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator>
+  <rights> © 2026 木春sh </rights>
+  <icon>/assets/img/favicons/favicon.ico</icon>
+  <logo>/assets/img/favicons/favicon-96x96.png</logo>
+
+
+  
+  <entry>
+    <title>jekyll博客生成.md</title>
+    <link href="http://localhost:4000/posts/jekyll%E5%8D%9A%E5%AE%A2%E7%94%9F%E6%88%90/" rel="alternate" type="text/html" title="jekyll博客生成.md" />
+    <published>2026-03-09T18:03:17+08:00</published>
+  
+    <updated>2026-03-09T18:03:17+08:00</updated>
+  
+    <id>http://localhost:4000/posts/jekyll%E5%8D%9A%E5%AE%A2%E7%94%9F%E6%88%90/</id>
+    <content type="text/html" src="http://localhost:4000/posts/jekyll%E5%8D%9A%E5%AE%A2%E7%94%9F%E6%88%90/" />
+    <author>
+      <name>木春sh</name>
+    </author>
+
+  
+    
+    <category term="建站" />
+    
+    <category term="静态博客" />
+    
+  
+
+  <summary>关于如何配置jekyll博客。</summary>
+
+  </entry>
+
+  
+  <entry>
+    <title>静态网站托管平台</title>
+    <link href="http://localhost:4000/posts/%E9%9D%99%E6%80%81%E7%BD%91%E7%AB%99%E6%89%98%E7%AE%A1%E5%B9%B3%E5%8F%B0%E6%AF%94%E8%BE%83/" rel="alternate" type="text/html" title="静态网站托管平台" />
+    <published>2026-03-07T16:10:38+08:00</published>
+  
+    <updated>2026-03-07T16:10:38+08:00</updated>
+  
+    <id>http://localhost:4000/posts/%E9%9D%99%E6%80%81%E7%BD%91%E7%AB%99%E6%89%98%E7%AE%A1%E5%B9%B3%E5%8F%B0%E6%AF%94%E8%BE%83/</id>
+    <content type="text/html" src="http://localhost:4000/posts/%E9%9D%99%E6%80%81%E7%BD%91%E7%AB%99%E6%89%98%E7%AE%A1%E5%B9%B3%E5%8F%B0%E6%AF%94%E8%BE%83/" />
+    <author>
+      <name>木春sh</name>
+    </author>
+
+  
+    
+    <category term="建站" />
+    
+    <category term="静态博客" />
+    
+  
+
+  <summary>让D老师比较GitHub Pages、Cloudflare Pages、Vercel和Netlify。</summary>
+
+  </entry>
+
+  
+  <entry>
+    <title>Astro博客生成</title>
+    <link href="http://localhost:4000/posts/Astro%E5%8D%9A%E5%AE%A2%E7%94%9F%E6%88%90/" rel="alternate" type="text/html" title="Astro博客生成" />
+    <published>2026-03-07T05:26:19+08:00</published>
+  
+    <updated>2026-03-07T05:26:19+08:00</updated>
+  
+    <id>http://localhost:4000/posts/Astro%E5%8D%9A%E5%AE%A2%E7%94%9F%E6%88%90/</id>
+    <content type="text/html" src="http://localhost:4000/posts/Astro%E5%8D%9A%E5%AE%A2%E7%94%9F%E6%88%90/" />
+    <author>
+      <name>木春sh</name>
+    </author>
+
+  
+    
+    <category term="建站" />
+    
+    <category term="静态博客" />
+    
+  
+
+  <summary>关于如何配置astro博客。</summary>
+
+  </entry>
+
+  
+  <entry>
+    <title>Hugo博客生成</title>
+    <link href="http://localhost:4000/posts/Hugo%E5%8D%9A%E5%AE%A2%E7%94%9F%E6%88%90/" rel="alternate" type="text/html" title="Hugo博客生成" />
+    <published>2026-03-01T09:03:16+08:00</published>
+  
+    <updated>2026-03-01T09:03:16+08:00</updated>
+  
+    <id>http://localhost:4000/posts/Hugo%E5%8D%9A%E5%AE%A2%E7%94%9F%E6%88%90/</id>
+    <content type="text/html" src="http://localhost:4000/posts/Hugo%E5%8D%9A%E5%AE%A2%E7%94%9F%E6%88%90/" />
+    <author>
+      <name>木春sh</name>
+    </author>
+
+  
+    
+    <category term="建站" />
+    
+    <category term="静态博客" />
+    
+  
+
+  <summary>关于如何配置Hugo博客。</summary>
+
+  </entry>
+
+  
+  <entry>
+    <title>Hexo 常用命令合集</title>
+    <link href="http://localhost:4000/posts/Hexo-%E5%91%BD%E4%BB%A4%E5%90%88%E9%9B%86/" rel="alternate" type="text/html" title="Hexo 常用命令合集" />
+    <published>2026-03-01T06:55:04+08:00</published>
+  
+    <updated>2026-03-01T06:55:04+08:00</updated>
+  
+    <id>http://localhost:4000/posts/Hexo-%E5%91%BD%E4%BB%A4%E5%90%88%E9%9B%86/</id>
+    <content type="text/html" src="http://localhost:4000/posts/Hexo-%E5%91%BD%E4%BB%A4%E5%90%88%E9%9B%86/" />
+    <author>
+      <name>木春sh</name>
+    </author>
+
+  
+    
+    <category term="建站" />
+    
+    <category term="静态博客" />
+    
+  
+
+  <summary>Hexo创建与部署命令</summary>
+
+  </entry>
+
+</feed>
+
+
